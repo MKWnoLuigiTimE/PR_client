@@ -1,6 +1,6 @@
-## Pure Client1.0
+## Pure Client1.
 
-PureClient1.0が公衆にリリースされました。
+PureClient1.6が公衆にリリースされました。
 
 これは非常に素晴らしいことであり、高機能のクライアントです。
 
@@ -16,3 +16,8 @@ PureClient1.0が公衆にリリースされました。
 
 
 ### by ＄Team The Anti Money＄
+
+追記5/11
+PureClient 1.6がKorozinによってリリースされました。
+それによって新しいダウンロードサイトと1.7公開後、Crackを
+進めます
